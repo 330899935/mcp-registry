@@ -11,7 +11,7 @@ about:
   icon: https://avatars.githubusercontent.com/u/13128444?v=4
 source:
   project: https://github.com/line/line-bot-mcp-server
-  commit: ada7c33eac5531b49b3d48fd4c147c1f76fd7193
+  commit: dcb3a6a0acbcfc7e82c730d4fa5aafcb0c3a249f
 config:
   description: Configure the connection to LINE
   secrets:
